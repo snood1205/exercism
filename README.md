@@ -1,0 +1,2 @@
+# exercism
+I am going through the different [exercism](http://exercism.io/) exercises for `Rust`, `Ruby`, and `Java`. I am putting my solutions up here because I like putting out what I do, but also so people can look at, and critique my solutions. For `Rust` I am trying to do everything recursively if possible, for example, see [beer song](rust/beer-song/src/lib.rs), where I used a recursive solution instead of the more obvious iterative solution to be more <em>functional</em>
