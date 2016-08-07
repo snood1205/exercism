@@ -8,7 +8,7 @@ string bob::hey(string input)
 {
   bool upper = true;
   bool empty = true;
-  for (int i = 0; i < input.length(): i++) {
+  for (int i = 0; i < input.length(); i++) {
     if (input[i] != toupper(input[i]))
       upper = false;
     if (input[i] != ' ' || input[i] != '\t' || input[i] != '\n')
